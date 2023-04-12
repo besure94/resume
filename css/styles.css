@@ -1,3 +1,9 @@
-h1 {
+.alpha {
+	color: #001219;
 	text-align: center;
+}
+
+.beta {
+	color: #005f73;
+	text-align: left;
 }
