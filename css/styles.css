@@ -1,9 +1,24 @@
 .alpha {
 	color: #001219;
 	text-align: center;
+	font-size: large;
 }
 
 .beta {
-	color: #005f73;
+	color: #001219;
 	text-align: left;
+	font-size: large;
+	font-weight: 500;
+}
+
+.charlie {
+	color: #0a9396;
+}
+
+.delta {
+	font-style: bold;
+}
+
+.echo {
+	font-weight: 600;
 }
